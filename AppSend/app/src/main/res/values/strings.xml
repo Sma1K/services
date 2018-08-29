@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppSend</string>
+    <string name="push_text">Push</string>
+</resources>
